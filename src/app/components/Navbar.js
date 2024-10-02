@@ -1,5 +1,5 @@
 const Navbar = () => {
-    return <div className="fixed top-0 left-0 w-full p-4 dark:bg-gray-100 text-black dark:text-gray-800 bg-slate-200 opacity-90 z-50">
+    return <div className="fixed top-0 left-0 w-full p-4  text-black dark:text-gray-800  opacity-90 z-50">
 
         <div className="container mx-auto">
             <div className="navbar ">
