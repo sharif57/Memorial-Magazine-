@@ -32,7 +32,7 @@ const Banner = () => {
                 {/* Right Section */}
                 <div className="w-full md:w-1/2 flex justify-center">
                     <div className="relative">
-                        <Image height={600} width={500} className="p-8" src="/Group 672.png" alt="Memorial Image" />
+                        <Image height={600} width={500} className="p-8" src="/iPhone 12 Mockup Front View.png" alt="Memorial Image" />
                     </div>
                 </div>
             </div>
