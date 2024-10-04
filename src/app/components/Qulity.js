@@ -17,7 +17,7 @@ const Qulity = () => {
         },
 
     ]
-    return <div className="bg-[#eaf3fc] py-7 mt-14">
+    return <div className="bg-[#eaf3fc] py-7  mt-14">
         <div className="w-1/2 mx-auto mt-14 text-center text-black">
             <h1 className="text-6xl font-semibold">Quality Services</h1>
             <p className="w-1/2 mx-auto mt-4">We offer a wide range of funeral services and arrangements to help you honor and celebrate the life og your loved one.</p>
