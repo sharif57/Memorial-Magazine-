@@ -1,5 +1,6 @@
 import Banner from "./components/Banner";
 import Help from "./components/Help";
+import Pricing from "./components/Pricing";
 import Qulity from "./components/Qulity";
 import RecentSt from "./components/RecentSt";
 import Team from "./components/Team";
@@ -14,6 +15,7 @@ export default function Home() {
       <Help></Help>
       <Team></Team>
       <Testimonials></Testimonials>
+      <Pricing></Pricing>
     </div>
   );
 }
