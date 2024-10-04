@@ -1,5 +1,7 @@
 import Banner from "./components/Banner";
+import Contact from "./components/Contact";
 import Help from "./components/Help";
+import Latest from "./components/Latest";
 import Pricing from "./components/Pricing";
 import Qulity from "./components/Qulity";
 import RecentSt from "./components/RecentSt";
@@ -16,6 +18,8 @@ export default function Home() {
       <Team></Team>
       <Testimonials></Testimonials>
       <Pricing></Pricing>
+      <Latest></Latest>
+      <Contact></Contact>
     </div>
   );
 }
