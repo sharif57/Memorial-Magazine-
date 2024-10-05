@@ -40,7 +40,7 @@ const Page = () => {
 
     ]
 
-    return <div>
+    return <div >
         {/* my-app/public/Rectangle 3 (1).png */}
         <div
             className="flex justify-center items-center  p-6 px-8 bg-blue-200 bg-cover h-[500px] bg-center bg-no-repeat relative"

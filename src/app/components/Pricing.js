@@ -1,5 +1,10 @@
+
+
 const Pricing = () => {
     return <div>
+        <div>
+            
+        </div>
         <section className="py-6 dark:bg-gray-100 dark:text-gray-800">
             <div className="container p-4 mx-auto sm:p-10">
                 <div className="mb-12 space-y-4 text-center">

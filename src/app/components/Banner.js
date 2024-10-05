@@ -10,7 +10,7 @@ const Banner = () => {
             }}
         >
             {/* Background overlay */}
-            <div className="absolute inset-0 bg-blue-500 opacity-70"></div>
+            <div  className="absolute inset-0 bg-blue-500 opacity-70"></div>
 
             <div className="container mx-auto flex justify-center items-center relative z-10">
                 {/* Left Section */}
